@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @d-s-dc
 - 👀 I’m interested in web-dev and cp
 - 🌱 I’m currently learning both
-- 💞️ I’m looking to collaborating on writing blogs on C
+- 🤝 I’m looking to collaborating on writing blogs on C
 - 📫 How to reach me - on github
 
 <!---
